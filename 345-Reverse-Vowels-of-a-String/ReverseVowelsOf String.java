@@ -19,7 +19,7 @@ public class Solution {
                 continue;
             }
             if(!vowelSet.contains(s.charAt(tail))){
-                tail ++;
+                tail --;
                 continue;
             }
             char tmp = ch[head];
