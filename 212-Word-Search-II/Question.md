@@ -40,12 +40,6 @@ If the current candidate does not exist in all words' prefix, you could stop bac
 
 <div>
 
-<div id="company_tags" class="btn btn-xs btn-warning">Show Company Tags</div>
-
-<span class="hidebutton">[Airbnb](/company/airbnb/) [Google](/company/google/) [Microsoft](/company/microsoft/)</span></div>
-
-<div>
-
 <div id="tags" class="btn btn-xs btn-warning">Show Tags</div>
 
 <span class="hidebutton">[Backtracking](/tag/backtracking/) [Trie](/tag/trie/)</span></div>
