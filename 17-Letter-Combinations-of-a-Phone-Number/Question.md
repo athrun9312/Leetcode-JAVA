@@ -23,6 +23,12 @@ Although the above answer is in lexicographical order, your answer could be in a
 
 <div>
 
+<div id="company_tags" class="btn btn-xs btn-warning">Show Company Tags</div>
+
+<span class="hidebutton">[Amazon](/company/amazon/) [Dropbox](/company/dropbox/) [Facebook](/company/facebook/) [Google](/company/google/) [Uber](/company/uber/)</span></div>
+
+<div>
+
 <div id="tags" class="btn btn-xs btn-warning">Show Tags</div>
 
 <span class="hidebutton">[Backtracking](/tag/backtracking/) [String](/tag/string/)</span></div>
