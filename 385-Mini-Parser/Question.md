@@ -40,12 +40,6 @@ Return a NestedInteger object containing a nested list with 2 elements:
 
 <div>
 
-<div id="company_tags" class="btn btn-xs btn-warning">Show Company Tags</div>
-
-<span class="hidebutton">[Airbnb](/company/airbnb/)</span></div>
-
-<div>
-
 <div id="tags" class="btn btn-xs btn-warning">Show Tags</div>
 
 <span class="hidebutton">[Stack](/tag/stack/) [String](/tag/string/)</span></div>
